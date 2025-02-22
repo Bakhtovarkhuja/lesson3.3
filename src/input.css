@@ -7,3 +7,18 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+.bg1{
+    background-image: url(/Bitmap.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg2{
+    background-image: url(/Bitmap\ \(1\).svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg3{
+    background-image: url(/Bitmap\ \(2\).svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
